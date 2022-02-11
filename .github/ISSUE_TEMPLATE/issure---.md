@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 ## 系统环境(必填)
-- [ ] (IDE)
-- [ ] (IOS)
-- [ ] (Android)
+- [ ] IOS
+- [ ] Android
+- [ ] IDE
 
 ## 基础库版本或小红书APP版本(必填)
 
